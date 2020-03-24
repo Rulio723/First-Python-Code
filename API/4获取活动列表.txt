@@ -1,0 +1,9 @@
+[GET]
+https://mobilelearn.chaoxing.com/ppt/activeAPI/taskactivelist?courseId=xxx&classId=xxx&uid=xxx,Cookie
+[参数]
+courseId 课程ID（在课程列表中获取）
+classId    班级ID（在课程列表中获取）
+uid         用户ID（在登陆时获取）
+[需要Cookie]
+[注意]
+activeType=2 且 status=1 就为未签到活动

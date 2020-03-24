@@ -1,0 +1,4 @@
+[GET]
+http://mooc1-api.chaoxing.com/mycourse/backclazzdata?view=json&rss=1,Cookie
+[无参数]
+[需要Cookie]

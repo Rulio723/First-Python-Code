@@ -1,0 +1,5 @@
+[POST]
+http://passport2.chaoxing.com/getauthstatus
+[参数]
+uuid 通用唯一识别码
+enc  加密验证码 （ 读取生成的二维码包含的链接即可获取）
