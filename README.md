@@ -1,7 +1,7 @@
-### King'S Han 😎
+### Rulio'S Han 😎
 
 <!--
-**SuperManito/SuperManito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rulio723/Rulio723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuperManito&show_icons=true&theme=tokyonight)](https://github.com/SuperManito)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rulio723&show_icons=true&theme=tokyonight)](https://github.com/Rulio723)
